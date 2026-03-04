@@ -1,0 +1,61 @@
+{
+  "appTitle": "Notification Dashboard",
+  "send": {
+    "notification": "Send Notification",
+    "to_devices": "Send Notification to Devices"
+  },
+  "enter": {
+    "notification_details": "Enter the notification details and send to all connected devices"
+  },
+  "notification": {
+    "title": "Notification Title",
+    "body": "Notification Body"
+  },
+  "placeholder": {
+    "enter_title": "Enter notification title",
+    "enter_message": "Enter notification message"
+  },
+  "validation": {
+    "title_required": "Title is required",
+    "message_required": "Message is required",
+    "title_error": "Please enter a notification title",
+    "body_error": "Please enter a notification body"
+  },
+  "button": {
+    "sending": "Sending...",
+    "clear_form": "Clear Form"
+  },
+  "message": {
+    "success": "Notification sent successfully to all devices!"
+  },
+  "language": {
+    "english": "English",
+    "arabic": "العربية",
+    "change": "Change Language"
+  },
+  "emotion": {
+    "select": "Select Emotion",
+    "add_emotion": "Add Emotion"
+  },
+  "login": {
+    "welcome_back": "Welcome",
+    "sign_in_account": "Sign in to your account",
+    "username": "Username",
+    "password": "Password",
+    "enter_username": "Enter username",
+    "enter_password": "Enter password",
+    "sign_in": "Sign In",
+    "both_required": "Please enter both username and password",
+    "invalid_credentials": "Invalid username or password"
+  },
+  "splash": {
+    "welcome": "Welcome",
+    "initializing_firebase": "Initializing Firebase...",
+    "ready_to_go": "Ready to go!",
+    "loading": "Loading...",
+    "app_title": "Notification Dashboard",
+    "tagline": "Manage and send notifications with ease",
+    "footer": "Setting up your notification preferences..."
+  }
+}
+

@@ -1,0 +1,60 @@
+{
+  "appTitle": "لوحة التحكم للإشعارات",
+  "send": {
+    "notification": "إرسال إشعار",
+    "to_devices": "إرسال إشعار إلى الأجهزة"
+  },
+  "enter": {
+    "notification_details": "أدخل تفاصيل الإشعار وأرسله إلى جميع الأجهزة المتصلة"
+  },
+  "notification": {
+    "title": "عنوان الإشعار",
+    "body": "محتوى الإشعار"
+  },
+  "placeholder": {
+    "enter_title": "أدخل عنوان الإشعار",
+    "enter_message": "أدخل رسالة الإشعار"
+  },
+  "validation": {
+    "title_required": "العنوان مطلوب",
+    "message_required": "الرسالة مطلوبة",
+    "title_error": "يرجى إدخال عنوان الإشعار",
+    "body_error": "يرجى إدخال محتوى الإشعار"
+  },
+  "button": {
+    "sending": "جاري الإرسال...",
+    "clear_form": "مسح النموذج"
+  },
+  "message": {
+    "success": "تم إرسال الإشعار بنجاح إلى جميع الأجهزة!"
+  },
+  "language": {
+    "english": "English",
+    "arabic": "العربية",
+    "change": "تغير اللغة"
+  },
+  "emotion": {
+    "select": "اختر الرموز التعبيرية",
+    "add_emotion": "إضافة رموز تعبيرية"
+  },
+  "login": {
+    "welcome_back": "أهلا بك",
+    "sign_in_account": "قم بتسجيل الدخول إلى حسابك",
+    "username": "اسم المستخدم",
+    "password": "كلمة المرور",
+    "enter_username": "أدخل اسم المستخدم",
+    "enter_password": "أدخل كلمة المرور",
+    "sign_in": "تسجيل الدخول",
+    "both_required": "يرجى إدخال اسم المستخدم وكلمة المرور",
+    "invalid_credentials": "اسم المستخدم أو كلمة المرور غير صحيحة"
+  },
+  "splash": {
+    "welcome": "أهلا بك",
+    "initializing_firebase": "جاري تهيئة الإشعارات..",
+    "ready_to_go": "جاهز للعمل!",
+    "loading": "جاري التحميل...",
+    "app_title": "لوحة تحكم الإشعارات",
+    "tagline": "إدارة وإرسال الإشعارات بسهولة",
+    "footer": "جاري إعداد لوحة تحكم الإشعارات..."
+  }
+}

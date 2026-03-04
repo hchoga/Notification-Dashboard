@@ -1,0 +1,7 @@
+targets:
+  $default:
+    builders:
+      easy_localization_loader:
+        enabled: true
+        options:
+          support_locales: ['en', 'ar']

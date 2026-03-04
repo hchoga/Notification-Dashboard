@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935780868218",
+    "project_id": "notification-dashboard-22d27",
+    "storage_bucket": "notification-dashboard-22d27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935780868218:android:ca318e82a8215eaa589bc3",
+        "android_client_info": {
+          "package_name": "com.example.notification_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnmvd2cZHg_U44TeQ01UEqJvXCiUS3Uwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
